@@ -1,0 +1,1970 @@
+@media screen and (max-width: 320px) {
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+.menu__btn {
+
+  margin-left: 90vw;
+
+}
+
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 300px 21px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none!important;
+    display: inline;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    margin-left: 0;
+    
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.list_other_materials ul li {
+
+    margin: .20vw .10vw;
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+.how_to_request,
+.how_to_consultation,
+.how_to_playment,
+.how_to_shipment {
+
+    margin-left: 50px;
+    margin-bottom: 120px;
+    text-align: left;
+
+}
+
+.how_to_request img {
+
+    margin-left: 110px;
+
+}
+
+.how_to_shipment {
+
+    margin-bottom: 0;
+
+}
+
+.arrow img {
+
+    opacity: 0;
+
+}
+
+.arrow_1 {
+
+    opacity: 1;
+    z-index: -101;
+    max-width: 100px;
+    margin: 190px -180px;
+
+}
+
+.arrow_1 img {
+
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+.request_cost h1,
+.our_contacts h1,
+.our_partners h1,
+.application_text h1,
+.FAQ h1,
+.material h2,
+.our_advantages h1,
+.how_to_work h1  {
+
+    font-size: 30px;
+
+}
+
+.email_input,
+.phone_input {
+
+    width: 300px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 15px!important;
+    display: block!important;
+
+}
+
+.form_request input {
+
+    padding: 15px 30px 15px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+iframe {
+
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    display: inherit;
+
+}
+   
+.slick-slider{
+
+    width: 300px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 100%;
+
+}
+
+.slick-slide {
+
+    width: 100px!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: 0!important;
+    opacity: 0;
+}
+
+.slick-next
+{
+
+    margin-right: -15px!important;
+    opacity: 0;
+}
+
+
+.cont {
+
+    margin-left: 0;
+    float: none;
+    text-align: center;
+
+}
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+.cont_area {
+
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+.cont_area form button {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+
+@media screen and (min-width: 321px) and (max-width: 370px) {
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+.menu__btn {
+
+  margin-left: 90vw;
+
+}
+
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 300px 21px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none!important;
+    display: inline;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    margin-left: 0;
+    
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.list_other_materials ul li {
+
+    margin: .20vw .10vw;
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+.how_to_request,
+.how_to_consultation,
+.how_to_playment,
+.how_to_shipment {
+
+    margin-left: 50px;
+    margin-bottom: 120px;
+    text-align: left;
+
+}
+
+.how_to_request img {
+
+    margin-left: 110px;
+
+}
+
+.how_to_shipment {
+
+    margin-bottom: 0;
+
+}
+
+.arrow img {
+
+    opacity: 0;
+
+}
+
+.arrow_1 {
+
+    opacity: 1;
+    z-index: -101;
+    max-width: 100px;
+    margin: 190px -180px;
+
+}
+
+.arrow_1 img {
+
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+.email_input,
+.phone_input {
+
+    width: 300px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 15px!important;
+    display: block!important;
+
+}
+
+.form_request input {
+
+    padding: 15px 30px 15px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+iframe {
+
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    display: inherit;
+
+}
+   
+.slick-slider{
+
+    width: 300px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 100%;
+
+}
+
+.slick-slide {
+
+    width: 100px!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: 0!important;
+    opacity: 0;
+}
+
+.slick-next
+{
+
+    margin-right: -15px!important;
+    opacity: 0;
+}
+
+.cont {
+
+    margin-left: 0;
+    float: none;
+    text-align: center;
+
+}
+
+.request_cost h1,
+.our_contacts h1,
+.our_partners h1,
+.application_text h1,
+.FAQ h1,
+.material h2,
+.our_advantages h1,
+.how_to_work h1  {
+
+    font-size: 30px;
+
+}
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+.cont_area {
+
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+.cont_area form button {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+
+@media screen and (min-width: 371px) and (max-width: 410px)  {
+
+.request_cost h1,
+.our_contacts h1,
+.our_partners h1,
+.application_text h1,
+.FAQ h1,
+.material h2,
+.our_advantages h1,
+.how_to_work h1  {
+
+    font-size: 30px;
+
+}
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+
+.cont_area form button {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+.menu__btn {
+
+  margin-left: 90vw;
+
+}
+
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 300px 21px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none!important;
+    display: inline;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    margin-left: 0;
+    
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.list_other_materials ul li {
+
+    margin: .20vw .10vw;
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+.how_to_request,
+.how_to_consultation,
+.how_to_playment,
+.how_to_shipment {
+
+    margin-left: 50px;
+    margin-bottom: 120px;
+    text-align: left;
+
+}
+
+.how_to_request img {
+
+    margin-left: 110px;
+
+}
+
+.how_to_shipment {
+
+    margin-bottom: 0;
+
+}
+
+.arrow img {
+
+    opacity: 0;
+
+}
+
+.arrow_1 {
+
+    opacity: 1;
+    z-index: -101;
+    max-width: 100px;
+    margin: 190px -180px;
+
+}
+
+.arrow_1 img {
+
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+.email_input,
+.phone_input {
+
+    width: 300px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 15px!important;
+    display: block!important;
+
+}
+
+.form_request input {
+
+    padding: 15px 30px 15px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+iframe {
+
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    display: inherit;
+
+}
+   
+.slick-slider{
+
+    width: 300px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 100%;
+
+}
+
+.slick-slide {
+
+    width: 100px!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: 0!important;
+    opacity: 0;
+}
+
+.slick-next
+{
+
+    margin-right: -15px!important;
+    opacity: 0;
+}
+
+.cont {
+
+    margin-left: 0;
+    float: none;
+    text-align: center;
+
+}
+
+.cont_area {
+
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+@media screen and (min-width: 411px) and (max-width: 480px)  {
+
+
+.request_cost h1,
+.our_contacts h1,
+.our_partners h1,
+.application_text h1,
+.FAQ h1,
+.material h2,
+.our_advantages h1,
+.how_to_work h1  {
+
+    font-size: 30px;
+
+}
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+.cont_area form button {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.menu__btn {
+
+  margin-left: 90vw;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 300px 21px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none!important;
+    display: inline;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    margin-left: 2vw;
+    
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.list_other_materials ul li {
+
+    margin: .20vw .10vw;
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+.how_to_request,
+.how_to_consultation,
+.how_to_playment,
+.how_to_shipment {
+
+    margin-left: 50px;
+    margin-bottom: 120px;
+    text-align: left;
+
+}
+
+.how_to_request img {
+
+    margin-left: 110px;
+
+}
+
+.how_to_shipment {
+
+    margin-bottom: 0;
+
+}
+
+.arrow img {
+
+    opacity: 0;
+
+}
+
+.arrow_1 {
+
+    opacity: 1;
+    z-index: -101;
+    max-width: 100px;
+    margin: 190px -180px;
+
+}
+
+.arrow_1 img {
+
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+.email_input,
+.phone_input {
+
+    width: 300px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 15px!important;
+    display: block!important;
+
+}
+
+.form_request input {
+
+    padding: 15px 30px 15px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+iframe {
+
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    display: inherit;
+
+}
+   
+.slick-slider{
+
+    width: 300px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 100%;
+
+}
+
+.slick-slide {
+
+    width: 100px!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: 0!important;
+    opacity: 0;
+}
+
+.slick-next
+{
+
+    margin-right: -15px!important;
+    opacity: 0;
+}
+
+.cont {
+
+    margin-left: 0;
+    float: none;
+    text-align: center;
+
+}
+
+.cont_area {
+
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 640px) {
+
+.request_cost h1,
+.our_contacts h1,
+.our_partners h1,
+.application_text h1,
+.FAQ h1,
+.material h2,
+.our_advantages h1,
+.how_to_work h1  {
+
+    font-size: 30px;
+
+}
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+.cont_area form button {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+.menu__btn {
+
+  margin-left: 90vw;
+
+}
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 300px 21px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none!important;
+    display: inline;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    margin-left: 2vw;
+    
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.list_other_materials ul li {
+
+    margin: .20vw .10vw;
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+.how_to_request,
+.how_to_consultation,
+.how_to_playment,
+.how_to_shipment {
+
+    margin-left: 150px;
+    margin-bottom: 120px;
+    text-align: left;
+
+}
+
+.how_to_request img {
+
+    margin-left: 110px;
+
+}
+
+.how_to_shipment {
+
+    margin-bottom: 0;
+
+}
+
+.arrow img {
+
+    opacity: 0;
+
+}
+
+.arrow_1 {
+
+    opacity: 1;
+    z-index: -101;
+    max-width: 100px;
+    margin: 190px -180px;
+
+}
+
+.arrow_1 img {
+
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+.email_input,
+.phone_input {
+
+    width: 300px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 15px!important;
+    display: block!important;
+
+}
+
+.form_request input {
+
+    padding: 15px 30px 15px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+iframe {
+
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    display: inherit;
+
+}
+   
+.slick-slider{
+
+    width: 300px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 100%;
+
+}
+
+.slick-slide {
+
+    width: 100px!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: 0!important;
+    opacity: 0;
+}
+
+.slick-next
+{
+
+    margin-right: -15px!important;
+    opacity: 0;
+}
+
+.cont {
+
+    margin-left: 0;
+    float: none;
+    text-align: center;
+
+}
+
+.cont_area {
+
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 960px) {
+	
+.request_cost h1,
+.our_contacts h1,
+.our_partners h1,
+.application_text h1,
+.FAQ h1,
+.material h2,
+.our_advantages h1,
+.how_to_work h1  {
+
+    font-size: 30px;
+
+}
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 300px 21px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none!important;
+    display: inline;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    margin-left: 25vw;
+
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.list_other_materials ul li {
+
+    margin: .20vw .10vw;
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+iframe {
+
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+    display: inherit;
+
+}
+
+.email_input,
+.phone_input {
+
+    width: 300px;
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    margin-bottom: 15px!important;
+    display: block!important;
+
+}
+
+.form_request input {
+
+    padding: 15px 30px 15px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+   
+.slick-slider{
+
+    width: 600px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 80%;
+
+}
+
+.slick-slide {
+
+    width: 200px!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: 0!important;
+    opacity: 0;
+}
+
+.slick-next
+{
+
+    margin-right: -15px!important;
+    opacity: 0;
+}
+
+.cont {
+
+    margin-left: 0;
+    float: none;
+    text-align: center;
+
+}
+
+.cont_area {
+
+    margin-left: 15vw;
+    margin-right: 0;
+
+}
+
+.cont_area form button {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+@media screen and (min-width: 961px) and (max-width: 1200px) {
+
+.cont p,
+.application_text p,
+.question_answer h4,
+.block_2 p,
+.block_3 p,
+.block_4 p,
+.block_5 p,
+.block_6 p {
+
+    text-align: center;
+
+}
+
+
+.hamburger-menu {
+
+    opacity: 1;
+    z-index: 1;
+
+}
+
+#menu__toggle:checked ~ .menu__box {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+.nav_img {
+
+    display: block;
+    max-width: 300px;
+
+}
+
+.menu {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.number_and_mail {
+
+    opacity: 0;
+    display: none;
+    margin: -500px;
+
+}
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 100%!important;
+    margin: 0 10vw;
+
+}
+
+.modal-body_pod {
+
+    margin: 500px 201px!important;
+
+}
+
+.cover_content_title {
+
+    width: 40%!important;
+    float: none;
+
+}
+
+.cover_content_title h1 {
+
+    font-size: 32px;
+
+}
+
+.cover_content_title h2 {
+
+    font-size: 22px;
+
+}
+
+.cover_content_title h3 {
+
+    font-size: 22px;
+
+}
+
+.payment {
+
+    display: inline;
+    margin-left: 25vw;
+
+}
+
+.list_materials {
+
+    max-width: 600px;
+
+}
+
+
+.list_materials ul li{
+
+    margin: 10px 0!important;
+
+}
+
+.work_chain {
+
+    max-width: 600px!important;
+
+}
+
+iframe {
+
+    margin-right: auto;
+    margin-left: auto;
+    display: inherit;
+
+}
+
+.slick-slider{
+
+    width: 800px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 60%;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: -40px!important;
+}
+
+.slick-next
+{
+
+    margin-right: -20px!important;
+}
+
+.cont {
+
+    margin-left: 0;
+    text-align: center;
+
+}
+
+.footer ul {
+
+    max-width: 600px!important;
+
+}
+
+}
+
+
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 40%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 0 581px!important;
+
+}
+
+.slick-slider{
+
+    width: 800px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 60%;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: -100px!important;
+}
+
+.slick-next
+{
+
+    margin-right: -20px!important;
+}
+
+}
+
+
+@media screen and (min-width: 1401px) and (max-width: 1520px) {
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.modal-body img {
+
+    width: 40%!important;
+
+}
+
+.modal-body_pod {
+
+    margin: 0 581px!important;
+
+}
+
+.slick-slider{
+
+    width: 800px;
+
+}
+
+.slider_slick img {
+
+    max-width: 100%;
+    width: 60%;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: -50px!important;
+}
+.slick-next
+{
+
+    margin-right: -50px!important;
+}
+
+}
+
+@media screen and (min-width: 1521px) and (max-width: 1700px) {
+
+.modal-body {
+
+    margin: 0 0!important;
+
+}
+
+.slick-prev
+{
+   
+    margin-left: -50px!important;
+}
+.slick-next
+{
+
+    margin-right: -50px!important;
+}
+
+}
